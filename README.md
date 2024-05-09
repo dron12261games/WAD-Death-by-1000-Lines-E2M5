@@ -2,7 +2,7 @@
 
 # STATUS: ✅RELEASED
 
-### Download - [Latest Release](https://github.com/dron12261games/WAD-Constriction1024-MAP07/releases/download/v5/The.Lost.Shores.zip)
+### Download - [Latest Release](https://github.com/dron12261games/WAD-Death-by-1000-Lines-E2M5/releases/download/v1/Marching.in.the.Darkness.zip)
 
 # Actual screenshots:
 ![Screen1](./screens/1.png)
